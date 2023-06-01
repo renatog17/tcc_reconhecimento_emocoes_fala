@@ -14,3 +14,4 @@ Após a extração dos coeficientes MFCC, o modelo de aprendizado de máquina fo
 
 Durante o treinamento, amostras de áudio previamente rotuladas foram utilizadas para ensinar o modelo a reconhecer as emoções presentes nos áudios. Métricas de desempenho, como acurácia, foram utilizadas para avaliar a precisão do sistema.
 ## Como usar
+Todo
