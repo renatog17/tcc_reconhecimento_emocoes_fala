@@ -13,3 +13,4 @@ Os áudios utilizados no estudo foram obtidos do YouTube, sendo necessário o pr
 Após a extração dos coeficientes MFCC, o modelo de aprendizado de máquina foi implementado utilizando a biblioteca TensorFlow, que oferece suporte para a criação de redes neurais convolucionais. As redes neurais convolucionais são especialmente adequadas para o processamento de dados sequenciais, como áudios, devido à sua capacidade de capturar padrões espaciais e temporais.
 
 Durante o treinamento, amostras de áudio previamente rotuladas foram utilizadas para ensinar o modelo a reconhecer as emoções presentes nos áudios. Métricas de desempenho, como acurácia, foram utilizadas para avaliar a precisão do sistema.
+## Como usar
